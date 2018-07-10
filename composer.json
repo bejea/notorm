@@ -19,6 +19,7 @@
         "psr-4": {
             "Farmer\\NotORM\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 
 }
