@@ -1,5 +1,5 @@
 <?php
-namespace PhalApi\NotORM;
+namespace Farmer\NotORM;
 
 /**
  * 轻量级入口
